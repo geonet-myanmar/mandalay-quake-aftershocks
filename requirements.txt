@@ -1,0 +1,7 @@
+pandas
+geopandas
+matplotlib
+cartopy
+imageio
+imageio-ffmpeg
+tqdm
